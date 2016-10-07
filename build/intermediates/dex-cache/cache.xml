@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\home\StudioProjects\AndroidSearch\app\libs\com.fasterxml.jackson.core.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6575afa4a9b3dc94dec2fa6082847e6987de651c">
+        <dex dex="C:\Users\home\StudioProjects\AndroidSearch\app\build\intermediates\pre-dexed\debug\com.fasterxml.jackson.core_e68fc5f5fc9d8970a9a50233dcf4dfbbb7b680f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\home\StudioProjects\AndroidSearch\app\libs\apache-httpcomponents-httpcore.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="33fc26c02f8043ab0ede19eadc8c9885386b255c">
+        <dex dex="C:\Users\home\StudioProjects\AndroidSearch\app\build\intermediates\pre-dexed\debug\apache-httpcomponents-httpcore_563906f9ac712108bc71f2aabdf86626c6b4639b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\home\StudioProjects\AndroidSearch\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d9855082f70e1a94787a2a2acbc267d090d9c26d">
+        <dex dex="C:\Users\home\StudioProjects\AndroidSearch\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_d2394da87ab4312044f27d292b8284f589870998.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\home\StudioProjects\AndroidSearch\app\libs\com.fasterxml.jackson.databind.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="98364cd86063fe995199a1eb8268319d3e5db1f9">
+        <dex dex="C:\Users\home\StudioProjects\AndroidSearch\app\build\intermediates\pre-dexed\debug\com.fasterxml.jackson.databind_73373c3790ac9bcdd5d538ee5581d8c9a16be840.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\home\StudioProjects\AndroidSearch\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\home\StudioProjects\AndroidSearch\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_a9131adb8dcf03c31b8cc62653ed8c28d602f667.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\home\StudioProjects\AndroidSearch\app\libs\com.fasterxml.jackson.annotations.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="adaa16df5f1ff56b40fb59362c83886f5413096c">
+        <dex dex="C:\Users\home\StudioProjects\AndroidSearch\app\build\intermediates\pre-dexed\debug\com.fasterxml.jackson.annotations_ad2bd2ecad2c36fe2b970f9e3c55bc65323919eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\home\StudioProjects\AndroidSearch\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3d56178f39bb8f431098b56372092020450a98c0">
+        <dex dex="C:\Users\home\StudioProjects\AndroidSearch\app\build\intermediates\pre-dexed\debug\instant-run_8cccdd44a0466ff81887fbaec12fe8156a438cb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\home\StudioProjects\AndroidSearch\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\home\StudioProjects\AndroidSearch\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_4bb90cbd85e57d51c93a07e839f2e9b48807823a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\home\StudioProjects\AndroidSearch\app\libs\httpclient-4.2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6a91a27c5c07e9da44eeddbc4206e349735b26f4">
+        <dex dex="C:\Users\home\StudioProjects\AndroidSearch\app\build\intermediates\pre-dexed\debug\httpclient-4.2.3_249e78843b0ab55fec84f947cf02f4888ba2b13e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\home\StudioProjects\AndroidSearch\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_039465bcacbc4807b84be940584ec81caa2ca51c.jar" />
+    </item>
+
+</items>

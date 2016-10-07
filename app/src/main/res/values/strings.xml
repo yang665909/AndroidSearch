@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidGoogleSearch</string>
+    <string name="title">Google Custom Image Search</string>
+    <string name="search_hint">search&#8230;</string>
+    <string name="search">search</string>
+    <string name="name">Name</string>
+    <string name="action_settings">Settings</string>
+	<string name="error_title">Error</string>
+	<string name="error_message">Image file cannot be downloaded</string>
+	<string name="no_name_message">Please specify what images to search</string>
+	<string name="ok">OK</string>
+	<string name="img_size_label">Image Size</string>
+	<string name="img_file_type">File Type</string>
+	<string name="img_file_limit">Number of Result</string>
+	<string name="image_description">image</string>
+	<string name="uploading">Uploading&#8230;</string>
+	<string name="relatedSite">Related Site(Optional)</string>
+</resources>

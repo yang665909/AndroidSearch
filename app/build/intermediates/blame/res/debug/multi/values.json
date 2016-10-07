@@ -1,0 +1,454 @@
+[
+    {
+        "outputFile": "C:\\Users\\home\\StudioProjects\\AndroidSearch\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 8,
+                    "endColumn": 19,
+                    "endOffset": 236
+                },
+                "from": {
+                    "file": "C:\\Users\\home\\StudioProjects\\AndroidSearch\\app\\src\\main\\res\\values\\array.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 295,
+                        "endLine": 17,
+                        "endColumn": 19,
+                        "endOffset": 482
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 241,
+                    "endLine": 16,
+                    "endColumn": 19,
+                    "endOffset": 460
+                },
+                "from": {
+                    "file": "C:\\Users\\home\\StudioProjects\\AndroidSearch\\app\\src\\main\\res\\values\\array.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endLine": 9,
+                        "endColumn": 19,
+                        "endOffset": 283
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 465,
+                    "endLine": 28,
+                    "endColumn": 19,
+                    "endOffset": 741
+                },
+                "from": {
+                    "file": "C:\\Users\\home\\StudioProjects\\AndroidSearch\\app\\src\\main\\res\\values\\array.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 494,
+                        "endLine": 30,
+                        "endColumn": 19,
+                        "endOffset": 781
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 746,
+                    "endColumn": 57,
+                    "endOffset": 799
+                },
+                "from": {
+                    "file": "C:\\Users\\home\\StudioProjects\\AndroidSearch\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 804,
+                    "endColumn": 55,
+                    "endOffset": 855
+                },
+                "from": {
+                    "file": "C:\\Users\\home\\StudioProjects\\AndroidSearch\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 860,
+                    "endColumn": 52,
+                    "endOffset": 908
+                },
+                "from": {
+                    "file": "C:\\Users\\home\\StudioProjects\\AndroidSearch\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 307,
+                        "endColumn": 52,
+                        "endOffset": 355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 913,
+                    "endColumn": 56,
+                    "endOffset": 965
+                },
+                "from": {
+                    "file": "C:\\Users\\home\\StudioProjects\\AndroidSearch\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 56,
+                        "endOffset": 107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 970,
+                    "endColumn": 73,
+                    "endOffset": 1039
+                },
+                "from": {
+                    "file": "C:\\Users\\home\\StudioProjects\\AndroidSearch\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 1,
+                        "startOffset": 400,
+                        "endColumn": 70,
+                        "endOffset": 469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1044,
+                    "endColumn": 45,
+                    "endOffset": 1085
+                },
+                "from": {
+                    "file": "C:\\Users\\home\\StudioProjects\\AndroidSearch\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 357,
+                        "endColumn": 42,
+                        "endOffset": 398
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1090,
+                    "endColumn": 51,
+                    "endOffset": 1137
+                },
+                "from": {
+                    "file": "C:\\Users\\home\\StudioProjects\\AndroidSearch\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 1,
+                        "startOffset": 737,
+                        "endColumn": 48,
+                        "endOffset": 784
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1142,
+                    "endColumn": 59,
+                    "endOffset": 1197
+                },
+                "from": {
+                    "file": "C:\\Users\\home\\StudioProjects\\AndroidSearch\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 1,
+                        "startOffset": 680,
+                        "endColumn": 56,
+                        "endOffset": 735
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1202,
+                    "endColumn": 51,
+                    "endOffset": 1249
+                },
+                "from": {
+                    "file": "C:\\Users\\home\\StudioProjects\\AndroidSearch\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 1,
+                        "startOffset": 631,
+                        "endColumn": 48,
+                        "endOffset": 678
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1254,
+                    "endColumn": 53,
+                    "endOffset": 1303
+                },
+                "from": {
+                    "file": "C:\\Users\\home\\StudioProjects\\AndroidSearch\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 1,
+                        "startOffset": 580,
+                        "endColumn": 50,
+                        "endOffset": 629
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1308,
+                    "endColumn": 37,
+                    "endOffset": 1341
+                },
+                "from": {
+                    "file": "C:\\Users\\home\\StudioProjects\\AndroidSearch\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 269,
+                        "endColumn": 37,
+                        "endOffset": 302
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1346,
+                    "endColumn": 80,
+                    "endOffset": 1422
+                },
+                "from": {
+                    "file": "C:\\Users\\home\\StudioProjects\\AndroidSearch\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 1,
+                        "startOffset": 471,
+                        "endColumn": 77,
+                        "endOffset": 547
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1427,
+                    "endColumn": 33,
+                    "endOffset": 1456
+                },
+                "from": {
+                    "file": "C:\\Users\\home\\StudioProjects\\AndroidSearch\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 1,
+                        "startOffset": 549,
+                        "endColumn": 30,
+                        "endOffset": 578
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 1461,
+                    "endColumn": 62,
+                    "endOffset": 1519
+                },
+                "from": {
+                    "file": "C:\\Users\\home\\StudioProjects\\AndroidSearch\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 1,
+                        "startOffset": 838,
+                        "endColumn": 59,
+                        "endOffset": 896
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 1524,
+                    "endColumn": 41,
+                    "endOffset": 1561
+                },
+                "from": {
+                    "file": "C:\\Users\\home\\StudioProjects\\AndroidSearch\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 227,
+                        "endColumn": 41,
+                        "endOffset": 264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 1566,
+                    "endColumn": 47,
+                    "endOffset": 1609
+                },
+                "from": {
+                    "file": "C:\\Users\\home\\StudioProjects\\AndroidSearch\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 173,
+                        "endColumn": 53,
+                        "endOffset": 222
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 1614,
+                    "endColumn": 60,
+                    "endOffset": 1670
+                },
+                "from": {
+                    "file": "C:\\Users\\home\\StudioProjects\\AndroidSearch\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 112,
+                        "endColumn": 60,
+                        "endOffset": 168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 1675,
+                    "endColumn": 48,
+                    "endOffset": 1719
+                },
+                "from": {
+                    "file": "C:\\Users\\home\\StudioProjects\\AndroidSearch\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 1,
+                        "startOffset": 786,
+                        "endColumn": 51,
+                        "endOffset": 836
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 1724,
+                    "endLine": 53,
+                    "endColumn": 12,
+                    "endOffset": 2010
+                },
+                "from": {
+                    "file": "C:\\Users\\home\\StudioProjects\\AndroidSearch\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 2015,
+                    "endLine": 56,
+                    "endColumn": 12,
+                    "endOffset": 2170
+                },
+                "from": {
+                    "file": "C:\\Users\\home\\StudioProjects\\AndroidSearch\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]

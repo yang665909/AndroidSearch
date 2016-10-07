@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\AndroidSearch\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_image.xml",
+        "source": "C:\\Users\\home\\StudioProjects\\AndroidSearch\\app\\src\\main\\res\\layout\\item_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\AndroidSearch\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image.xml",
+        "source": "C:\\Users\\home\\StudioProjects\\AndroidSearch\\app\\src\\main\\res\\layout\\activity_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\AndroidSearch\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\home\\StudioProjects\\AndroidSearch\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
